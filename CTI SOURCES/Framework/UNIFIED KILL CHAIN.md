@@ -1,0 +1,17 @@
+# UNIFIED KILL CHAIN
+
+### RELEASE DATE:- 2017
+
+### DEVELOPED BY:- PAUL POLS IN COLLABORATION WITH AND FOX-IT LEIDEN UNIVERSITY
+
+### USAGE:-
+1) **THREAT HUNTING**
+2) **INCIDENT RESPONSE**
+3) **SOC**
+4) **RED AND TEAMING**
+
+## LINKS
+
+[UNIFIED KILL CHAIN](https://www.unifiedkillchain.com/) 
+
+[UNIFIED KILL CHAIN LAB(TRY HACKME)](https://tryhackme.com/room/unifiedkillchain)
