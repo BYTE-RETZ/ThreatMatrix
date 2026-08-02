@@ -7,7 +7,7 @@ I always thought pastebin as a place for developers, shared code snippets, some 
 This platform has been existing since 2002.Game build data, error logs, source code, links all of these stuff can be shared on pastebin, consider it an internet clipboard.
 ### Background
 
-Internet threats still existed at time, and hackers had got their campaigns running. At that time, the cybersecurity posture and awareness was not good enough amongst people and organisations. Hackers did not require specialized hacking skills, they could pwn a system with just basic recon and computer basics.
+Internet threats still existed at time, and adversaries had got their campaigns running. At that time, the cybersecurity posture and awareness was not good enough amongst people and organisations. Security practices were generally less mature, making misconfigurations and weak authentication more common targets for attackers.
 
 * A running ftp server with anonymous access
 * A poorly confugured telnet service.
@@ -19,7 +19,7 @@ Internet threats still existed at time, and hackers had got their campaigns runn
 ### Why Pastebin is used by hackers??
 
 A small group of computer geeks could just get into systems of organisation with some pwning knowledge.
-The motive of these hackers varied at a large scale. Some wanted to exfiltrate the data to sell it on darkweb, some wanted to hold their data for ransom, some wanted to mess with organisations for fame, some just wanted to test their skills.
+The motive of these threat actors varied at a large scale. Some wanted to exfiltrate the data to sell it on darkweb, some wanted to hold their data for ransom, some wanted to mess with organisations for fame, some just wanted to test their skills.
 Just like Jonathan James, the 15 year old kid who hacked into Pentagon in 1999.He found systems running with default configurations, weak administrative passwords, or unpatched software flaws that allowed him remote login capabilities.
 
 Hackers who tried selling the data on different forums, be it surface web or darkweb, and failed, they chose to dump the stolen data on surface web. Some directly pasted the data into pastebin. This contained:
@@ -76,7 +76,7 @@ Since there was a potential URL that was connected to a C2 server for communicat
 
 **Pastebin** has been very popular amongst hackers to dump all their stolen stuff, also to spread threats. None of these groups are that big or sophisticated to be called as APTs(Advanced Persistent Threat).
 To protect the organizations in a proactive way, threat hunters need to actively monitor these pasting websites for data breaches and IOCs (Indicator of Compromise). Most of the data being dumped is quite old and outdated.
-But still as per my research, many leaked credentials were still active and unchanged. So other than traditional threat hunting, this addition in threat hunting methodology can be greatly helpful.
+But still as per my investigation,historical leaks demonstrate why credential rotation, MFA and continuous monitoring remain critical even years after a breach. So other than traditional threat hunting, this addition in threat hunting methodology can be greatly helpful.
 
 
 
