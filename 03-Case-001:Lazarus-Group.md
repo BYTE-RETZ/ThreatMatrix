@@ -3,7 +3,8 @@
 # CASE-001 — Lazarus Group
 
 **Date:** 11/10/2026  
-**Research focus:** Threat intelligence · Malware analysis · Threat hunting · Detection engineering
+**Research focus:** Threat intelligence · Malware analysis · Threat hunting · Detection engineering       
+**Author:** Dishant
 
 ---
 
